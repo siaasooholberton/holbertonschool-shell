@@ -1,0 +1,1 @@
+Directory going through shell i/o, redirections and filters
